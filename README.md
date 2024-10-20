@@ -13,7 +13,7 @@
 
 - Recientemente me gradué de la Universidad.
 - Actualmente estoy practicando lo que aprendí en mis prácticas, que serían Angular, TypeScript y Node con Express
-- Llevo 3 meses trabajando en Svam International en México, más 7 meses de prácticas profesionales, si es que eso se puede contar.
+- Tengo 7 meses de experiencia laboral, llegue a trabajar en Svam International de México.
 - Durante el tiempo que trabajé en Svam, ayudé a arreglar algunas situaciones que tenían con un proyecto legacy en asp.net (solo ayudé con la parte Frontend).
 - Soy candidato a desarrollador full stack (actualmente solo tengo Frontend y un poco de Backend).
 - Me gusta escuchar música, jugar videojuegos, y cuando tengo algunos clientes, también reparo y construyo computadoras.
