@@ -43,7 +43,7 @@
 </tr></table>
 
 
-## Conectate conmigo:
+## Contactame:
 <div align="center">
     <a href="https://www.linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Maximiliano%20Rodríguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:maxrdz117@gmail.com"><img src="https://img.shields.io/badge/-maxrdz117@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
