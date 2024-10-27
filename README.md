@@ -8,17 +8,15 @@
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-## Sobre mi:
+## :man_technologist: Sobre mi:
 
+<pre>
+  <img align="right" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif">
+  - Recientemente me gradué de la Universidad.
+  
+</pre>
 
-- Recientemente me gradué de la Universidad.
-- Actualmente estoy practicando lo que aprendí en mis prácticas, que serían Angular, TypeScript y Node con Express
-- Tengo 7 meses de experiencia laboral, llegue a trabajar en Svam International de México.
-- Durante el tiempo que trabajé en Svam, ayudé a arreglar algunas situaciones que tenían con un proyecto legacy en asp.net (solo ayudé con la parte Frontend).
-- Soy candidato a desarrollador full stack (actualmente solo tengo Frontend y un poco de Backend).
-- Me gusta escuchar música, jugar videojuegos, y cuando tengo algunos clientes, también reparo y construyo computadoras.
-
-## Habilidades:
+## &nbsp;🛠️Habilidades:
 
 <table align="center"><tr><td valign="top" width="25%">
 
@@ -42,15 +40,19 @@
 </td>
 </tr></table>
 
-
-## Contactame:
+## &nbsp;📫 Contactame:
 <div align="center">
     <a href="https://www.linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Maximiliano%20Rodríguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:maxrdz117@gmail.com"><img src="https://img.shields.io/badge/-maxrdz117@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
- ## Estadisticas:
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Estadisticas:
  <div align="center">
    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRdz&show_icons=true&theme=darcula"/>
    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&theme=darcula"/>
  </div>
+
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
