@@ -12,7 +12,17 @@
 
 <pre>
   <img align="right" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif">
-  - Recientemente me gradué de la Universidad.
+  - Soy egresado en la carrera de Ing.Tecnologias de la información.
+  - Me apasiona el lado del FrontEnd, aunque tambien el lado del backend.
+  - El lenguaje que más eh usado es JavaScript y TypeScript.
+  - Actualmente estoy practicando el FrontEnd como a la vez al BackEnd.
+  - Mis Hbilidades Blandas son:
+    * Trabajo en Equipo
+    * Adaptabilidad
+    * Sociablidad
+    * Responsabilidad
+    * Inteligencia Emocional
+  
   
 </pre>
 
