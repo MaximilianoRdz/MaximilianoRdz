@@ -56,12 +56,13 @@
     <a target="_blank" href="mailto:maxrdz117@gmail.com"><img src="https://img.shields.io/badge/-maxrdz117@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Estadísticas:
-<div align="center">
-   <img align="left" width="100%" max-width="47%" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRdz&show_icons=true&theme=darcula" alt="Estadísticas de Maximiliano Rodríguez"/>
-   <img align="left" width="100%" max-width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&theme=darcula" alt="Top Lenguajes"/>
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Estadisticas:
+ <div align="center">
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRdz&show_icons=true&theme=darcula"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&theme=darcula"/>
+ </div>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribuciones de GitHub" width="100%" />
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
