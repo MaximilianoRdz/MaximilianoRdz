@@ -7,27 +7,23 @@
 
 ## :man_technologist: Sobre mi:
 
-<div style="overflow: auto;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="GIF" style="max-width: 300px; width: 100%; float: right; margin-left: 20px;">
-  <p>🎓 Soy egresado en la carrera de Ing. Tecnologías de la información.</p>
-  <p>💼 Tengo 3 meses de experiencia laboral (+4 meses de prácticas profesionales)</p>
-  <ul>
-    <li>Me apasiona el lado del FrontEnd, aunque también el lado del Backend.</li>
-    <li>El lenguaje que más he usado es JavaScript y TypeScript.</li>
-    <li>👨‍💻 Actualmente estoy practicando tanto FrontEnd como BackEnd.</li>
-  </ul>
-  <p><strong>Mis habilidades blandas son:</strong></p>
-  <ul>
-    <li>Trabajo en equipo</li>
-    <li>Adaptabilidad</li>
-    <li>Sociabilidad</li>
-    <li>Responsabilidad</li>
-    <li>Inteligencia emocional</li>
-  </ul>
-  <p>🎮 Me gustan los videojuegos</p>
-  <p>📺 Me gusta ver anime</p>
-  <p>🎧 Me gusta escuchar música</p>
-</div>
+<pre>
+  <img align="right" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif">
+  🎓 Soy egresado en la carrera de Ing.Tecnologias de la información.
+  💼 Tengo 3 meses de experiencia laboral(+4 meses de practicas profesionales)
+  - Me apasiona el lado del FrontEnd, aunque tambien el lado del backend.
+  - El lenguaje que más eh usado es JavaScript y TypeScript.
+  👨‍💻 Actualmente estoy practicando el FrontEnd como a la vez al BackEnd.
+  - Mis Hbilidades Blandas son:
+    * Trabajo en Equipo
+    * Adaptabilidad
+    * Sociablidad
+    * Responsabilidad
+    * Inteligencia Emocional
+  🎮 Me gustan los Videojuegos
+  📺 Me gusta ver Anime
+  🎧 Me gusta escuchar musica
+</pre>
 
 ## &nbsp;🛠️ Habilidades:
 
