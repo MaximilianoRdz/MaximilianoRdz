@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F78900&center=true&vCenter=true&width=435&lines=Soy+Maximiliano+Rodr%C3%ADguez;Desarrollador+Web;FrontEnd%2FBackEnd" alt="Typing SVG" />
 </p>
@@ -40,7 +38,7 @@
         
 ### Backend
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=4" /> 
 </div>
 
 </td><td valign="top" width="25%">
