@@ -29,9 +29,6 @@
   <p>🎧 Me gusta escuchar música</p>
 </div>
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="GIF" style="max-width: 300px; width: 100%; margin-left: 20px;">
-</div>
-
 ## &nbsp;🛠️ Habilidades:
 
 <table align="center" width="100%">
