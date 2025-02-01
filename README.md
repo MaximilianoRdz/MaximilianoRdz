@@ -7,10 +7,9 @@
 
 ## :man_technologist: Sobre mi:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="GIF" style="max-width: 300px; width: 100%; margin-right: 20px;">
-  <div style="flex: 1;">
-    <p>🎓 Soy egresado en la carrera de Ing.Tecnologías de la información.</p>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>🎓 Soy egresado en la carrera de Ing. Tecnologías de la información.</p>
     <p>💼 Tengo 3 meses de experiencia laboral (+4 meses de prácticas profesionales)</p>
     <ul>
       <li>Me apasiona el lado del FrontEnd, aunque también el lado del Backend.</li>
@@ -29,6 +28,8 @@
     <p>📺 Me gusta ver anime</p>
     <p>🎧 Me gusta escuchar música</p>
   </div>
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="GIF" style="max-width: 300px; width: 100%; margin-left: 20px;">
 </div>
 
 ## &nbsp;🛠️ Habilidades:
