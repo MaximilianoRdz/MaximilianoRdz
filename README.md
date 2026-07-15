@@ -1,167 +1,133 @@
-<div align="center">
+<p align="center">
 
-# 👋 Hola, soy Maximiliano Rodríguez
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F78900&center=true&vCenter=true&width=435&lines=Soy+Maximiliano+Rodr%C3%ADguez;Desarrollador+Web;FrontEnd%2FBackEnd" alt="Typing SVG" />
 
-### Software Engineer • Front-End Specialist • Full-Stack Developer
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineer;Angular+Developer;Full+Stack+Developer;Building+Modern+Web+Applications" />
 
-</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" width="100%" />
 
-## 🚀 Sobre mí
 
-💻 Ingeniero en Tecnologías de la Información y desarrollador Full-Stack con experiencia profesional desarrollando y manteniendo aplicaciones empresariales.
 
-🎯 Mi principal enfoque es el desarrollo **Front-End con Angular y TypeScript**, aunque disfruto participar en todo el ciclo de desarrollo construyendo soluciones Full-Stack escalables y mantenibles.
+## :man_technologist: Sobre mi:
 
-⚡ Actualmente trabajo desarrollando sistemas empresariales, integrando APIs REST y mejorando aplicaciones existentes utilizando tecnologías modernas.
 
----
 
-## 🛠️ Tecnologías y herramientas
+<pre>
 
-<div align="center">
+  <img align="right" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZvYWl1bXE3cTNtdGFxOGVqMWtiaHgyMjRzZGVueXprMjVqcjhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif">
 
-### Frontend
+  🎓 Soy egresado en la carrera de Ing.Tecnologias de la información.
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap&perline=7" />
+  💼 Tengo 3 meses de experiencia laboral(+4 meses de practicas profesionales)
 
-### Backend
+  - Me apasiona el lado del FrontEnd, aunque tambien el lado del backend.
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,cs,dotnet&perline=6" />
+  - El lenguaje que más eh usado es JavaScript y TypeScript.
 
-### Bases de datos
+  👨‍💻 Actualmente estoy practicando el FrontEnd como a la vez al BackEnd.
 
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql&perline=3" />
+  - Mis Hbilidades Blandas son:
 
-### Herramientas
+    * Trabajo en Equipo
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,docker,jira&perline=8" />
+    * Adaptabilidad
 
-</div>
+    * Sociablidad
 
----
+    * Responsabilidad
 
-## 💼 Experiencia Profesional
+    * Inteligencia Emocional
 
-### 🏢 High Technologies Analytics
+  🎮 Me gustan los Videojuegos
 
-**Software Engineer**
+  📺 Me gusta ver Anime
 
-* Desarrollo y mantenimiento de aplicaciones empresariales utilizando Django y Python.
-* Implementación de nuevas funcionalidades Front-End y Back-End.
-* Optimización y resolución de incidencias en entornos productivos.
+  🎧 Me gusta escuchar musica
 
-### 🏢 SVAM International de México
+</pre>
 
-**Software Engineer**
 
-* Participación en el sistema de facturación YoFacturo utilizando C# y ASP.NET.
-* Desarrollo Full-Stack del proyecto HRMS utilizando Angular, Node.js y PostgreSQL.
-* Integración de APIs REST y diseño de interfaces responsivas.
 
----
+## &nbsp;🛠️ Habilidades:
 
-## 🚀 Proyectos Destacados
 
-### 👨‍💼 HRCore
 
-Sistema moderno de Recursos Humanos desarrollado con:
+<table align="center" width="100%">
 
-* Angular
-* ASP.NET Core
-* Entity Framework
-* PostgreSQL
-* JWT Authentication
+  <tr>
 
----
+    <td valign="top" width="33%">
 
-### 💰 GTOPagos
+      <h3>Frontend</h3>
 
-Aplicación financiera para la administración de ingresos, gastos y pagos recurrentes.
+      <div align="center">
 
-Tecnologías:
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap&perline=4" alt="Frontend Skills" />
 
-* Angular
-* Django REST Framework
-* PostgreSQL
+      </div>
 
----
+    </td>
 
-### 📊 Portfolio Personal
+    <td valign="top" width="33%">
 
-Portafolio moderno desarrollado con:
+      <h3>Backend</h3>
 
-* Angular
-* Tailwind CSS
-* Animaciones y diseño responsivo
+      <div align="center">
 
----
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=4" alt="Backend Skills" />
 
-## 📈 Actualmente
+      </div>
 
-🔭 Trabajando con Angular, Django y ASP.NET Core.
+    </td>
 
-🌱 Aprendiendo:
+    <td valign="top" width="33%">
 
-* Clean Architecture
-* Entity Framework Core
-* Arquitecturas empresariales escalables
+      <h3>Herramientas</h3>
 
-🎯 Interesado en:
+      <div align="center">
 
-* Front-End Engineering
-* Software Architecture
-* High Performance Web Applications
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,postman&perline=4" alt="Tools Skills" />
 
----
+      </div>
 
-## 📫 Contacto
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+## &nbsp;📫 Contactame:
 
 <div align="center">
 
-<a href="mailto:maxrdz117@gmail.com">
-  <img src="https://img.shields.io/badge/Email-maxrdz117@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <a href="https://www.linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Maximiliano%20Rodríguez-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="https://www.linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245">
-  <img src="https://img.shields.io/badge/LinkedIn-Maximiliano_Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    <a target="_blank" href="mailto:maxrdz117@gmail.com"><img src="https://img.shields.io/badge/-maxrdz117@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Estadisticas:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRdz&show_icons=true&hide_border=true&theme=tokyonight"/>
+ <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&hide_border=true&theme=tokyonight"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRdz&show_icons=true&theme=darcula"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoRdz&theme=tokyonight&hide_border=true"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&theme=darcula"/>
 
-</div>
+ </div>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
+ <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
 
-</div>
+    alt="example" />
 
----
-
-<div align="center">
-
-### 🎮 Videojuegos • 🎧 Música • 📺 Anime • 💻 Tecnología • 🖥️ Hardware
-
-*"Building software one commit at a time."*
-
-</div>
+</p>
