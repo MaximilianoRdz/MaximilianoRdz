@@ -1,124 +1,129 @@
-<div align="center">
 
-# 👋 ¡Hola! Soy Maximiliano Rodríguez
+# `[ MAXIMILIANO RODRÍGUEZ ]`
 
-### Ingeniero de Software • Especialista en Frontend • Desarrollador Full-Stack
+### `// INGENIERO EN TI • ESPECIALISTA EN FRONTEND • DESARROLLADOR FULL-STACK //`
 
 <p align="center">
   <a href="https://linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/[_LINKEDIN_]-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505" alt="LinkedIn" />
   </a>
   <a href="mailto:maxrdz117@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/[_CORREO_]-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Correo" />
+  </a>
+  <a href="https://www.maxrdzs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/[_PORTAFOLIO_]-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Portafolio Web" />
   </a>
   <a href="https://github.com/MaximilianoRdz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/[_GITHUB_]-00FFFF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-México_🇲🇽-0055A5?style=for-the-badge" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/[_UBICACIÓN_]-MÉXICO_🇲🇽-050505?style=for-the-badge&labelColor=050505&color=FCEE0A" alt="Ubicación" />
 </p>
 
 <p align="center">
-  <b>Apasionado por el desarrollo web moderno, la arquitectura limpia y la creación de experiencias digitales intuitivas y de alto rendimiento.</b>
+  <b>> ARQUITECTURA LIMPIA • RENDIMIENTO OPTIMIZADO • EXPERIENCIAS DIGITALES DE ALTO IMPACTO <</b>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## ⚡ REGISTRO: [ SOBRE MÍ ]
 
-¡Hola! Soy **Maximiliano Rodríguez**, Ingeniero en Tecnologías de la Información. Me apasiona transformar ideas y retos complejos en software limpio, visualmente atractivo y fácil de usar.
+¡Hola! Soy **Maximiliano Rodríguez**, Ingeniero en Tecnologías de la Información. Me apasiona transformar ideas y retos complejos en software limpio, visualmente atractivo, rápido y escalable.
 
-Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, prestando especial atención a los detalles visuales, el rendimiento y la experiencia de usuario, complementándolo con bases sólidas en el **Backend** para conectar interfaces fluidas con servicios robustos.
+Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScript**, prestando especial atención a los detalles visuales, el rendimiento y la experiencia de usuario, complementándolo con bases sólidas en el **Backend** para conectar componentes reactivos con servicios robustos y seguros.
 
-* 💡 **Lo que me motiva:** Resolver problemas mediante soluciones elegantes, explorar nuevas herramientas del ecosistema web y construir proyectos que aporten valor real.
-* 🛠️ **Mi enfoque:** Código legible y mantenible, diseño intuitivo y pasión constante por aprender y perfeccionar mis habilidades día con día.
-* 🤖 **Desarrollo con IA:** Aprovecho herramientas modernas de IA generativa (GitHub Copilot, Cursor, LLMs) como multiplicador de productividad para escribir código limpio, diseñar pruebas y optimizar flujos de trabajo.
-* 🎯 **Intereses actuales:** Profundizar en mejores prácticas de arquitectura de software, rendimiento web y tecnologías modernas.
+* 💡 **// IMPULSO:** Crear interfaces fluidas, resolver desafíos lógicos mediante código elegante y explorar continuamente el ecosistema web moderno.
+* 🛠️ **// FILOSOFÍA:** Código mantenible, Clean Architecture, atención al detalle y enfoque constante en la experiencia de usuario.
+* 🤖 **// IA & PRODUCTIVIDAD:** Apalanco herramientas modernas de IA generativa (GitHub Copilot, Cursor, LLMs) como multiplicador de productividad para escribir código limpio, diseñar pruebas y optimizar flujos de trabajo.
+* 🎯 **// OBJETIVO:** Seguir diseñando soluciones digitales de alto impacto técnico y rendimiento superior.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ ESCANEO: [ HABILIDADES ]
 
 <div align="center">
 
-### Frontend
+### `// FRONTEND`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,bootstrap,rxjs&perline=8" alt="Tecnologías Frontend" />
 </p>
 
-### Backend
+### `// BACKEND`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&perline=6" alt="Tecnologías Backend" />
 </p>
 
-### Bases de Datos
+### `// BASES DE DATOS`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres&perline=3" alt="Bases de Datos" />
 </p>
 
-### Herramientas y Flujo de Trabajo
+### `// HERRAMIENTAS & DEVOPS`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,postman,jira&perline=8" alt="Herramientas" />
 </p>
 
-### IA y Productividad
+### `// IA & PRODUCTIVIDAD`
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/APIs_de_IA_Generativa-008080?style=for-the-badge&logo=google&logoColor=white" alt="APIs de IA" />
+  <img src="https://img.shields.io/badge/[_GITHUB_COPILOT_]-050505?style=for-the-badge&logo=githubcopilot&logoColor=00FFFF" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/[_CURSOR_IDE_]-050505?style=for-the-badge&logo=visualstudiocode&logoColor=FCEE0A" alt="Cursor" />
+  <img src="https://img.shields.io/badge/[_PROMPT_ENGINEERING_]-050505?style=for-the-badge&logo=openai&logoColor=FF003C" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/[_APIS_DE_IA_]-050505?style=for-the-badge&logo=google&logoColor=00FFFF" alt="APIs de IA" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🗄️ BASE DE DATOS: [ PROYECTOS ]
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <div align="right"><code>ID: DB_PRJ-01</code></div>
       <h3 align="center">💰 GTOPagos</h3>
       <p align="center">
         <b>Sistema de pagos y gestión financiera.</b> Plataforma para la administración de ingresos, gastos y pagos recurrentes con interfaz reactiva y API transaccional.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-050505?style=flat-square&logo=angular&logoColor=FF003C" />
+        <img src="https://img.shields.io/badge/Django_REST-050505?style=flat-square&logo=django&logoColor=00FFFF" />
+        <img src="https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=316192" />
+        <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=FCEE0A" />
       </p>
       <p align="center">
         <a href="https://gtopagos.maxrdzs.com/demo" target="_blank">
-          <img src="https://img.shields.io/badge/Demo_en_Vivo-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          <img src="https://img.shields.io/badge/[_DEMO_EN_VIVO_]-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Demo GTOPagos" />
         </a>
         <br/><br/>
         <a href="https://github.com/MaximilianoRdz/GTOPagos" target="_blank">
-          <img src="https://img.shields.io/badge/Repo_Frontend-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/[_FRONTEND_]-00FFFF?style=flat-square&logo=github&logoColor=050505" alt="Repo Frontend" />
         </a>
+        &nbsp;
         <a href="https://github.com/MaximilianoRdz/GTOPagos_Back" target="_blank">
-          <img src="https://img.shields.io/badge/Repo_Backend-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/[_BACKEND_]-00FFFF?style=flat-square&logo=github&logoColor=050505" alt="Repo Backend" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
+      <div align="right"><code>ID: DB_PRJ-02</code></div>
       <h3 align="center">⚡ Portafolio Cyberpunk</h3>
       <p align="center">
-        <b>Portafolio personal de alto rendimiento.</b> Estilo temático Cyberpunk con animaciones aceleradas por hardware GPU, componentes independientes (Standalone) y diseño 100% responsivo.
+        <b>Portafolio personal de alto rendimiento.</b> Estética temática Cyberpunk con animaciones aceleradas por hardware GPU, arquitectura modular y diseño 100% responsivo.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular_17+-050505?style=flat-square&logo=angular&logoColor=FF003C" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-050505?style=flat-square&logo=tailwindcss&logoColor=00FFFF" />
+        <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=FCEE0A" />
       </p>
       <p align="center">
         <a href="https://www.maxrdzs.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Sitio_Web-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          <img src="https://img.shields.io/badge/[_VER_SITIO_WEB_]-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Sitio Web Portafolio" />
         </a>
         <br/><br/>
         <a href="https://github.com/MaximilianoRdz/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Código_Fuente-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/[_CÓDIGO_FUENTE_]-FCEE0A?style=flat-square&logo=github&logoColor=050505" alt="Código Fuente Portafolio" />
         </a>
       </p>
     </td>
@@ -127,7 +132,7 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 TRAYECTORIA: [ EXPERIENCIA ]
 
 ### 🏢 **High Technologies Analytics**
 > **Ingeniero de Software**
@@ -143,22 +148,22 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 MÉTRICAS: [ ESTADÍSTICAS ]
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MaximilianoRdz&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=MaximilianoRdz&theme=cyberpunk&hide_border=true" alt="Racha de contribuciones" />
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=MaximilianoRdz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&hide_border=true&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=MaximilianoRdz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=cyberpunk&locale=es" alt="Estadísticas de GitHub" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&hide_border=true&theme=cyberpunk&locale=es" alt="Lenguajes más usados" />
 
 </div>
 
 ---
 
-## 🐍 Actividad de Contribuciones
+## 🐍 REGISTRO: [ ACTIVIDAD ]
 
 <div align="center">
 
@@ -170,16 +175,19 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 <div align="center">
 
-### 💬 ¡Conectemos!
+## 📡 TERMINAL: [ CONEXIÓN ]
 
-¿Tienes alguna consulta o te gustaría colaborar en algún proyecto?
+<b>// ¿TIENES UN PROYECTO O BUSCAS UN DESARROLLADOR FULL-STACK ENFOCADO EN CALIDAD?</b>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/[_CONECTAR_EN_LINKEDIN_]-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:maxrdz117@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar_un_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/[_ENVIAR_CORREO_]-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Correo" />
   </a>
 </p>
 
@@ -187,6 +195,6 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 <br/><br/>
 
-*«Construyendo software de calidad, un commit a la vez.»*
+<code>[ SISTEMA ACTUALIZADO // CONSTRUYENDO SOFTWARE DE CALIDAD, UN COMMIT A LA VEZ ]</code>
 
 </div>
