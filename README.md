@@ -33,6 +33,7 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 * 💡 **Lo que me motiva:** Resolver problemas mediante soluciones elegantes, explorar nuevas herramientas del ecosistema web y construir proyectos que aporten valor real.
 * 🛠️ **Mi enfoque:** Código legible y mantenible, diseño intuitivo y pasión constante por aprender y perfeccionar mis habilidades día con día.
+* 🤖 **Desarrollo con IA:** Aprovecho herramientas modernas de IA generativa (GitHub Copilot, Cursor, LLMs) como multiplicador de productividad para escribir código limpio, diseñar pruebas y optimizar flujos de trabajo.
 * 🎯 **Intereses actuales:** Profundizar en mejores prácticas de arquitectura de software, rendimiento web y tecnologías modernas.
 
 ---
@@ -59,6 +60,14 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 ### Herramientas y Flujo de Trabajo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,postman,jira&perline=8" alt="Herramientas" />
+</p>
+
+### IA y Productividad
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/APIs_de_IA_Generativa-008080?style=for-the-badge&logo=google&logoColor=white" alt="APIs de IA" />
 </p>
 
 </div>
