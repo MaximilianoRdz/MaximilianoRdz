@@ -43,22 +43,22 @@ Disfruto especialmente el desarrollo **Frontend con Angular y TypeScript**, pres
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,rxjs&perline=8" alt="Tecnologías Frontend" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,bootstrap,rxjs&perline=8" alt="Tecnologías Frontend" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,nodejs,express&perline=6" alt="Tecnologías Backend" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&perline=6" alt="Tecnologías Backend" />
 </p>
 
 ### Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3" alt="Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=postgres&perline=3" alt="Bases de Datos" />
 </p>
 
 ### Herramientas y Flujo de Trabajo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,postman,vscode,jira&perline=8" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,postman,jira&perline=8" alt="Herramientas" />
 </p>
 
 </div>
