@@ -1,3 +1,4 @@
+<div align="center">
 
 # `[ MAXIMILIANO RODRÍGUEZ ]`
 
@@ -5,18 +6,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245" target="_blank">
-    <img src="https://img.shields.io/badge/[_LINKEDIN_]-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=00FFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:maxrdz117@gmail.com">
-    <img src="https://img.shields.io/badge/[_CORREO_]-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Correo" />
+    <img src="https://img.shields.io/badge/Correo-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF003C" alt="Correo" />
   </a>
   <a href="https://www.maxrdzs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/[_PORTAFOLIO_]-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Portafolio Web" />
+    <img src="https://img.shields.io/badge/Portafolio_Web-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=FCEE0A" alt="Portafolio Web" />
   </a>
   <a href="https://github.com/MaximilianoRdz" target="_blank">
-    <img src="https://img.shields.io/badge/[_GITHUB_]-00FFFF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=181717" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/[_UBICACIÓN_]-MÉXICO_🇲🇽-050505?style=for-the-badge&labelColor=050505&color=FCEE0A" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Ubicación-México_🇲🇽-0055A5?style=for-the-badge" alt="Ubicación" />
 </p>
 
 <p align="center">
@@ -28,6 +29,7 @@
 ---
 
 ## ⚡ REGISTRO: [ SOBRE MÍ ]
+
 
 ¡Hola! Soy **Maximiliano Rodríguez**, Ingeniero en Tecnologías de la Información. Me apasiona transformar ideas y retos complejos en software limpio, visualmente atractivo, rápido y escalable.
 
@@ -66,10 +68,10 @@ Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScri
 
 ### `// IA & PRODUCTIVIDAD`
 <p align="center">
-  <img src="https://img.shields.io/badge/[_GITHUB_COPILOT_]-050505?style=for-the-badge&logo=githubcopilot&logoColor=00FFFF" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/[_CURSOR_IDE_]-050505?style=for-the-badge&logo=visualstudiocode&logoColor=FCEE0A" alt="Cursor" />
-  <img src="https://img.shields.io/badge/[_PROMPT_ENGINEERING_]-050505?style=for-the-badge&logo=openai&logoColor=FF003C" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/[_APIS_DE_IA_]-050505?style=for-the-badge&logo=google&logoColor=00FFFF" alt="APIs de IA" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=00FFFF&labelColor=000000" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FCEE0A&labelColor=000000" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF003C&labelColor=000000" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/APIs_de_IA-000000?style=for-the-badge&logo=google&logoColor=00FFFF&labelColor=000000" alt="APIs de IA" />
 </p>
 
 </div>
@@ -94,15 +96,15 @@ Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScri
       </p>
       <p align="center">
         <a href="https://gtopagos.maxrdzs.com/demo" target="_blank">
-          <img src="https://img.shields.io/badge/[_DEMO_EN_VIVO_]-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Demo GTOPagos" />
+          <img src="https://img.shields.io/badge/Demo_en_Vivo-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=FCEE0A" alt="Demo GTOPagos" />
         </a>
         <br/><br/>
         <a href="https://github.com/MaximilianoRdz/GTOPagos" target="_blank">
-          <img src="https://img.shields.io/badge/[_FRONTEND_]-00FFFF?style=flat-square&logo=github&logoColor=050505" alt="Repo Frontend" />
+          <img src="https://img.shields.io/badge/Repo_Frontend-00FFFF?style=flat-square&logo=github&logoColor=050505&labelColor=00FFFF" alt="Repo Frontend" />
         </a>
         &nbsp;
         <a href="https://github.com/MaximilianoRdz/GTOPagos_Back" target="_blank">
-          <img src="https://img.shields.io/badge/[_BACKEND_]-00FFFF?style=flat-square&logo=github&logoColor=050505" alt="Repo Backend" />
+          <img src="https://img.shields.io/badge/Repo_Backend-00FFFF?style=flat-square&logo=github&logoColor=050505&labelColor=00FFFF" alt="Repo Backend" />
         </a>
       </p>
     </td>
@@ -119,11 +121,11 @@ Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScri
       </p>
       <p align="center">
         <a href="https://www.maxrdzs.com/" target="_blank">
-          <img src="https://img.shields.io/badge/[_VER_SITIO_WEB_]-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505" alt="Sitio Web Portafolio" />
+          <img src="https://img.shields.io/badge/Ver_Sitio_Web-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=00FFFF" alt="Sitio Web Portafolio" />
         </a>
         <br/><br/>
         <a href="https://github.com/MaximilianoRdz/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/[_CÓDIGO_FUENTE_]-FCEE0A?style=flat-square&logo=github&logoColor=050505" alt="Código Fuente Portafolio" />
+          <img src="https://img.shields.io/badge/Código_Fuente-FCEE0A?style=flat-square&logo=github&logoColor=050505&labelColor=FCEE0A" alt="Código Fuente Portafolio" />
         </a>
       </p>
     </td>
@@ -152,12 +154,12 @@ Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScri
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MaximilianoRdz&theme=cyberpunk&hide_border=true" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=MaximilianoRdz&background=050505&border=00FFFF&stroke=00FFFF&ring=FCEE0A&fire=FF003C&currStreakNum=00FFFF&sideNums=FCEE0A&currStreakLabel=00FFFF&sideLabels=FCEE0A&dates=999999" alt="Racha de contribuciones" />
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=MaximilianoRdz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=cyberpunk&locale=es" alt="Estadísticas de GitHub" />
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&hide_border=true&theme=cyberpunk&locale=es" alt="Lenguajes más usados" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=MaximilianoRdz&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=050505&title_color=FCEE0A&text_color=00FFFF&icon_color=FF003C&border_color=00FFFF&locale=es" alt="Estadísticas de GitHub" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaximilianoRdz&layout=compact&hide_border=false&bg_color=050505&title_color=FCEE0A&text_color=00FFFF&border_color=00FFFF&locale=es" alt="Lenguajes más usados" />
 
 </div>
 
@@ -183,11 +185,11 @@ Mi principal fuerte y pasión es el desarrollo **Frontend con Angular y TypeScri
 
 <p align="center">
   <a href="https://linkedin.com/in/maximiliano-rodr%C3%ADguez-991430245" target="_blank">
-    <img src="https://img.shields.io/badge/[_CONECTAR_EN_LINKEDIN_]-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=00FFFF" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:maxrdz117@gmail.com">
-    <img src="https://img.shields.io/badge/[_ENVIAR_CORREO_]-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Correo" />
+    <img src="https://img.shields.io/badge/Enviar_un_Correo-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF003C" alt="Correo" />
   </a>
 </p>
 
